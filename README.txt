@@ -1,4 +1,4 @@
-this website was created using:
+This website was created using:
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
